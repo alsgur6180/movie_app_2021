@@ -1,0 +1,7 @@
+.movie {
+  margin: 10%;
+  width: 80%;
+}
+.movie img {
+  max-width: 200px;
+}
